@@ -8,11 +8,11 @@ There were some big changes made that could have been a large time sink, but we 
 Through this experience, I saw how a team of developers worked together to produce a quality product. 
 Over the two week sprint I also had the opportunity to work on some other project management and team programming [skills](#Other-Skills-Learned) that I'm confident I will use again and again on future projects.
 
-Feel free to navigate through this file as needed: 
-[Application Overview](#C#-Application-Overview)
-[BackEnd Stories](#Back-End-Stories)
-[FullStack Stories](#Full-Stack-Stories)
-[FrontEnd Stories](#Front-End-Stories)
+#Navigational Links:<br/>
+[Application Overview](#C#-Application-Overview)<br/>
+[BackEnd Stories](#Back-End-Stories)<br/>
+[FullStack Stories](#Full-Stack-Stories)<br/>
+[FrontEnd Stories](#Front-End-Stories)<br/>
 [Skills](#Other-Skills-Learned)
 
   
