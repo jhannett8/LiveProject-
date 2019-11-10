@@ -9,11 +9,11 @@ Through this experience, I saw how a team of developers worked together to produ
 Over the two week sprint I also had the opportunity to work on some other project management and team programming [skills](#Other-Skills-Learned) that I'm confident I will use again and again on future projects.
 
 Feel free to navigate through this file as needed: 
-[Application Overview](## C# Application Overview )
-[BackEnd Stories](## Back End Stories)
-[FullStack Stories](## Full Stack Story)
-[FrontEnd Stories](## Front End Stories)
-[Skills](## Other Skills Learned)
+[Application Overview](#C#-Application-Overview)
+[BackEnd Stories](#Back-End-Stories)
+[FullStack Stories](#Full-Stack-Stories)
+[FrontEnd Stories](#Front-End-Stories)
+[Skills](#Other-Skills-Learned)
 
   
 
@@ -78,7 +78,7 @@ It was not designed to be flexible about what types of DateTime objects would be
 
 
 
-## Full Stack Story 
+## Full Stack Stories 
 
 ### Story Overview: Printer Bug Fix
 
