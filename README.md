@@ -6,7 +6,7 @@ For the last two weeks of my time at the Tech Academy, I worked with my peers in
 I was tasked to fix bugs, clean up code, and add requested features to the existing program. 
 There were some big changes made that could have been a large time sink, but we used what we had to deliver what was needed within the existing timeframe. 
 Through this experience, I saw how a team of developers worked together to produce a quality product. 
-Over the two week sprint I also had the opportunity to work on some other project management and team programming [skills](#Other Skills Learned) that I'm confident I will use again and again on future projects.
+Over the two week sprint I also had the opportunity to work on some other project management and team programming [skills](#Other-Skills-Learned) that I'm confident I will use again and again on future projects.
 
 Feel free to navigate through this file as needed: 
 [Application Overview](## C# Application Overview )
@@ -339,7 +339,7 @@ I had been tasked to replace the existing tables with bootstrap cards and to ens
         </div>
 
 ## Other Skills Learned
-•	Working with a group of developers to identify front and back end bugs to the improve usability of an application
-•	Improving project flow by communicating about who needs to check out which files for their current story
-•	Learning new efficiencies from other developers by observing their workflow and asking questions
-•	Practice with team programming/pair programming when one developer runs into a bug they cannot solve
+    •	Working with a group of developers to identify front and back end bugs to the improve usability of an application
+    •	Improving project flow by communicating about who needs to check out which files for their current story
+    •	Learning new efficiencies from other developers by observing their workflow and asking questions
+    •	Practice with team programming/pair programming when one developer runs into a bug they cannot solve
